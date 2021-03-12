@@ -1,0 +1,10 @@
+/*Need to remove background image in order to override bootstrap*/
+.navbar-purple{
+  background-color: #371267;
+  background-image: none;
+} 
+
+/*Nav button cannot be overriden by css*/
+form button .btn .btn-outline-light {
+    margin-left: 5px !important;
+}

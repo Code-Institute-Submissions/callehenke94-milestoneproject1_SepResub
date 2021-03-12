@@ -25,3 +25,4 @@ various tips and trix from https://stackoverflow.com/ and https://www.w3schools.
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
 `python3 -m http.server`
+npx prettier --write .
