@@ -1,14 +1,23 @@
+/*NAVBAR*/
 /*Need to remove background image in order to override bootstrap*/
 .navbar-purple{
   background-color: #371267;
   background-image: none;
 } 
 
-/*Nav button cannot be overriden by css*/
+/*Nav button cannot be overriden by css without important*/
 form button .btn .btn-outline-light {
     margin-left: 5px !important;
 }
 
 .carousel-margins {
     margin-top: 0.5vh;
+}
+
+/*SERIES CARD*/
+.series-card .rounded{
+padding: 10px;
+width: 640px;
+height: 360px;
+border-radius: 2.5%;
 }
