@@ -58,3 +58,21 @@ border-radius: 2.5%;
 h4 {
     padding: 5px;
 }
+
+/* VIDEO */
+iframe {
+    margin-top: 10vh;
+    max-width: 960px;
+    max-height: 540px;
+    border-radius: 2%;
+    margin-left: 20%;
+}
+
+.video-container {
+    max-height: 650px;
+}
+
+.video-title {
+    
+}
+/* FOOTER */
