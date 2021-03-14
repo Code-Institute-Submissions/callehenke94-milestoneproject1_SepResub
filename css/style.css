@@ -65,7 +65,7 @@ iframe {
     max-width: 960px;
     max-height: 540px;
     border-radius: 2%;
-    margin-left: 20%;
+    margin-left: 25%;
 }
 
 .video-container {
@@ -73,6 +73,6 @@ iframe {
 }
 
 .video-title {
-    
+    margin-left: 25%;
 }
 /* FOOTER */
