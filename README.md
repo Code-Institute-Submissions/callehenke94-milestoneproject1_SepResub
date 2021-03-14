@@ -19,6 +19,7 @@ https://grid.layoutit.com/ for the grid layout.
 https://www.hiclipart.com/ for the play icon.
 https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q DevEd for tips and help with navbar especially.
 Image hosting service on https://imgbb.com/.
+Footer from https://bootsnipp.com/snippets/84kpo.
 
 various tips and trix from https://stackoverflow.com/ and https://www.w3schools.com.
 
