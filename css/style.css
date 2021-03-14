@@ -37,8 +37,14 @@ form button .btn .btn-outline-light {
     margin-left: 5px !important;
 }
 
-.carousel-margins {
-    margin-top: 0.5vh;
+.btn-primary {
+    background-color: #BA55D3;
+    border-color: #BA55D3;
+    opacity: 90%
+}
+
+.carousel-caption {
+    left: 75%;
 }
 
 /*SERIES CARD*/
