@@ -1,9 +1,4 @@
 /*Background Image*/
-body, html {
-  height: 100%;
-  width: 100%;
-}
-
 body{
     font-family: 'poppins', sans-serif;
     color: #ffffff;
@@ -17,7 +12,7 @@ body{
   background-image: url('/images/background.png');
 
   /* Full height */
-  height: auto;
+  
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -74,5 +69,19 @@ iframe {
 
 .video-title {
     margin-left: 25%;
+}
+
+/*MY VIDEOS*/
+/*Sign in form*/
+.sign-up-form {
+    margin-top: 10vh;
+    margin-bottom: 3vh;
+    background-color: rgb(186, 85, 211, 0.5);
+    width: 50%;
+    border-radius: 5%;
+}
+
+.heading-section{
+    padding-top: 25px;
 }
 /* FOOTER */
