@@ -1,18 +1,17 @@
 /*Background Image*/
-body{
-    font-family: 'poppins', sans-serif;
-    color: #ffffff;
+body {
+  font-family: "poppins", sans-serif;
+  color: #ffffff;
 }
 
 .container-fluid {
-    width: 100%;
+  width: 100%;
 }
 .bg-image {
   /* The image used */
-  background-image: url('/images/background.png');
+  background-image: url("/images/background.png");
 
   /* Full height */
-  
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -22,66 +21,66 @@ body{
 
 /*NAVBAR*/
 /*Need to remove background image in order to override bootstrap*/
-.navbar-purple{
+.navbar-purple {
   background-color: #371267;
   background-image: none;
-} 
+}
 
 /*Nav button cannot be overriden by css without important*/
 form button .btn .btn-outline-light {
-    margin-left: 5px !important;
+  margin-left: 5px !important;
 }
 
 .btn-primary {
-    background-color: #BA55D3;
-    border-color: #BA55D3;
-    opacity: 90%
+  background-color: #ba55d3;
+  border-color: #ba55d3;
+  opacity: 90%;
 }
 
 .carousel-caption {
-    left: 75%;
+  left: 75%;
 }
 
 /*SERIES CARD*/
-.series-card .rounded{
-padding: 10px;
-width: 640px;
-height: 360px;
-border-radius: 2.5%;
+.series-card .rounded {
+  padding: 10px;
+  width: 640px;
+  height: 360px;
+  border-radius: 2.5%;
 }
 
 h4 {
-    padding: 5px;
+  padding: 5px;
 }
 
 /* VIDEO */
 iframe {
-    margin-top: 10vh;
-    max-width: 960px;
-    max-height: 540px;
-    border-radius: 2%;
-    margin-left: 25%;
+  margin-top: 10vh;
+  max-width: 960px;
+  max-height: 540px;
+  border-radius: 2%;
+  margin-left: 25%;
 }
 
 .video-container {
-    max-height: 650px;
+  max-height: 650px;
 }
 
 .video-title {
-    margin-left: 25%;
+  margin-left: 25%;
 }
 
 /*MY VIDEOS*/
 /*Sign in form*/
 .sign-up-form {
-    margin-top: 10vh;
-    margin-bottom: 3vh;
-    background-color: rgb(186, 85, 211, 0.5);
-    width: 50%;
-    border-radius: 5%;
+  margin-top: 10vh;
+  margin-bottom: 3vh;
+  background-color: rgb(186, 85, 211, 0.5);
+  width: 50%;
+  border-radius: 5%;
 }
 
-.heading-section{
-    padding-top: 25px;
+.heading-section {
+  padding-top: 25px;
 }
 /* FOOTER */
