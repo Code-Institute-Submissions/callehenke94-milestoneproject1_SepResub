@@ -1,3 +1,8 @@
+html, body {
+    margin: 0;
+    min-height: 100%;
+}
+
 /*Background Image*/
 body {
   font-family: "poppins", sans-serif;
@@ -10,8 +15,6 @@ body {
 .bg-image {
   /* The image used */
   background-image: url("/images/background.png");
-
-  /* Full height */
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -53,6 +56,25 @@ h4 {
   padding: 5px;
 }
 
+/*CHANNELS*/
+/*Channel container*/
+.channel-container {
+    margin-top: 10vh;
+    padding: 10px;
+}
+/*Channel logo*/
+.channel-logo {
+    height: 100px;
+    width: 100px;
+}
+/*Channel title*/
+.channel-title {
+    text-align: center;
+}
+/*Positioning*/
+.channel-logo-position {
+    float: left;
+}
 /* VIDEO */
 iframe {
   margin-top: 10vh;
