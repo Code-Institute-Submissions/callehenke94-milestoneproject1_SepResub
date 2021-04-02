@@ -75,6 +75,11 @@ h4 {
     height: 100px;
     width: 100px;
 }
+
+.logo-image {
+    display: flex;
+    justify-content: center;
+}
 /*Channel title*/
 .channel-title {
     text-align: center;
