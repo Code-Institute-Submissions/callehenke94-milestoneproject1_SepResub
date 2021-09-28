@@ -94,6 +94,7 @@ h4 {
     margin-top: 5px;
 }
 /* VIDEO */
+/* iframe pulled from Brightcove*/
 iframe {
   margin-top: 10vh;
   max-width: 960px;
