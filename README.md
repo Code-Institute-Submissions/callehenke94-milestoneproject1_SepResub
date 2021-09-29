@@ -21,6 +21,7 @@ https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q DevEd for tips and help
 Image hosting service on https://imgbb.com/.
 Footer from https://bootsnipp.com/snippets/84kpo.
 Sign in form https://colorlib.com/wp/template/login-form-19/
+Video responsive from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_responsive_iframe_169
 
 various tips and trix from https://stackoverflow.com/ and https://www.w3schools.com.
 
