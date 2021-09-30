@@ -16,6 +16,10 @@ Trying to minimize distance from "click to watch" as much as possible, making it
 Website is created using HTML and CSS, with many elements of Bootstrap included. 
 Video Hosting service is provided by Brightcove.
 
+## Testing and QA
+
+Using Jigsaw W3C, I have some errors but those are due to old/missing dependencies and incompatabilities, not design or HTML functions. 
+
 
 
 ## Sources
