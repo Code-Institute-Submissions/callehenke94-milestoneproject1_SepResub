@@ -5,13 +5,16 @@ The service is monetized via ads, with the option to subscribe to remove said ad
 
 ## UX and features
 
-Focusing on kids and simplicity, with a vibrant and vivid colorscheme throughout. Essentially, what I focus on is getting from website to actually watching a video in as few clicks as possible. The first view (home) is a selection of series available, and as soon as one clicks on those one is taken directly to a playing video.
-The second part is grouping and structuring the content. This is done via Channels, where shows of the same age group or language are housed together.
-And lastly, we want people to be able to engage and rewatch their favorite shows. This is done via the "My Videos" page, where we will implement a full scale account structure in the future with the ability too bookmark videos they like.
+Design is focused on being kidfriendly and playful. Trying to minimize text based information and make every image clickable as to facilitate greater interaction with the content. 
+Divided up the different categories using "channels" as to more easily let the user find non-verbal content for example. 
+Trying to minimize distance from "click to watch" as much as possible, making it so we maximize the time a user spends watching videos. 
 
-Mock Up made in Figma:
+## Technology
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F21lALeyDiVAg14TDxa4skT%2FPlaygroundTV%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+Website is created using HTML and CSS, with many elements of Bootstrap included. 
+Video Hosting service is provided by Brightcove.
+
+
 
 ## Sources
 
@@ -23,10 +26,7 @@ Image hosting service on https://imgbb.com/.
 Footer from https://bootsnipp.com/snippets/84kpo.
 Sign in form https://colorlib.com/wp/template/login-form-19/
 Video responsive from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_responsive_iframe_169
+Mock Up and images made in Figma: https://www.figma.com
 
 various tips and trix from https://stackoverflow.com/ and https://www.w3schools.com.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-npx prettier --write .
