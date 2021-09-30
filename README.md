@@ -1,6 +1,7 @@
 # PlaygroundTV
 
 This is a mock up for a safe streaming service for kids. It provides youngsters with fun and learning content while making sure they are safe and not being exposed to adult content, violence or extracting any form of data and information from them.
+The service is monetized via ads, with the option to subscribe to remove said ads and gain added features like downloadable content. 
 
 ## UX and features
 

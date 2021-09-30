@@ -146,4 +146,9 @@ h4 {
   padding-top: 25px;
   font-size: 2vw;
 }
+
+.responsive-text {
+  font-size: 1vw;
+}
+
 /* FOOTER */
