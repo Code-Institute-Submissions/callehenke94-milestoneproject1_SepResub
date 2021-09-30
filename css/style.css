@@ -45,6 +45,7 @@ form button .btn .btn-outline-light {
   opacity: 90%;
 }
 
+/*CAROUSEL*/
 .carousel-caption {
   left: 75%;
 }
@@ -120,6 +121,19 @@ h4 {
 /*MY VIDEOS*/
 /*Sign in form*/
 .sign-up-form {
+  margin-top: 10vh;
+  margin-bottom: 3vh;
+  background-color: rgb(186, 85, 211, 0.5);
+  width: 50%;
+  border-radius: 5%;
+}
+
+.heading-section {
+  padding-top: 25px;
+}
+
+/*COMING SOON*/
+.info-text-box {
   margin-top: 10vh;
   margin-bottom: 3vh;
   background-color: rgb(186, 85, 211, 0.5);
