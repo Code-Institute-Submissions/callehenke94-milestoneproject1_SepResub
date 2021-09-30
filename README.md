@@ -3,6 +3,8 @@
 This is a mock up for a safe streaming service for kids. It provides youngsters with fun and learning content while making sure they are safe and not being exposed to adult content, violence or extracting any form of data and information from them.
 The service is monetized via ads, with the option to subscribe to remove said ads and gain added features like downloadable content. 
 
+It can be added upon and expanded in the future, including dynamic data gathering and more content in general. 
+
 ## UX and features
 
 Design is focused on being kidfriendly and playful. Trying to minimize text based information and make every image clickable as to facilitate greater interaction with the content. 
